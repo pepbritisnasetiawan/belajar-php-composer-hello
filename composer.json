@@ -1,0 +1,19 @@
+{
+  "name": "febrian/belajar-php-composer-hello",
+  "description": "Library Composer Hello",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Febrian\\BelajarPhpComposerHello\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pepbri Tisna Setiawan",
+      "email": "pepbritisnasetiawan@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
