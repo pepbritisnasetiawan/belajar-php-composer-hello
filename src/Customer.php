@@ -1,6 +1,6 @@
 <?php
 
-namespace Febrian\BelajarPhpComposerHello\Customer;
+namespace Febrian\BelajarPhpComposerHello;
 
 class Customer
 {
